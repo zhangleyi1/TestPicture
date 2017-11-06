@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestPicture</string>
+    <string name="btn_fire_text">开始</string>
+    <string name="tv_camera_text">Select to Camera</string>
+    <string name="tv_select_photo_text">Select to Photo</string>
+    <string name="tv_cancel_text">cancel</string>
+</resources>
